@@ -3,7 +3,7 @@ Visualization of SDG4 Indicators from UIS data (http://tcg.uis.unesco.org/data-r
 
 
 This project visualizes the following data:
-### SDG 4 Global Data Book by target (Excel)
+##### SDG 4 Global Data Book by target (Excel)
 ### SDG 4 Country Data Table (Excel)
 ### SDG 4 Dataset (csv)
 
